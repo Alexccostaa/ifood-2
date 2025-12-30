@@ -1,0 +1,5 @@
+{
+  "name": "iFood Merchant Monitor",
+  "description": "A high-performance monitoring dashboard for iFood restaurant owners to track operational status, detect unexpected closures, and ensure business continuity across multiple locations.",
+  "requestFramePermissions": []
+}
